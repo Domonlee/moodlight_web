@@ -1,24 +1,25 @@
-baseURL: https://memos.moe/
+baseURL: https://moodlight.icebear.tech/
 languageCode: en-US
-title: Moe Memos
+title: Moodlight 
 theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: Moe Memos
+    title: Moodlight 
     subTitle: |
-      An app to help you capture thoughts and ideas, works with [✍️memos](https://github.com/usememos/memos).   
+      The Moodlight app is a great way to relax and de-stress. With a variety of soothing light settings to choose from,
+      you can create the perfect atmosphere for any mood. Whether you're looking to unwind after a long day, or you need a boost of energy, the Moodlight app can help.
       Availabile on iPhone, iPad and Android.
-    imageUrl: /memos.png
+    imageUrl: /moodlight.png
     imageWidth: 68
     imageHeight: 68
   hideFooter: true
   assets:
-    favicon: "/favicon.png"
+    favicon: "/favicon.ico"
   socialIcons:
-  - name: GitHub
-    url: /open-source/
-  - name: Mastodon
-    url: https://fosstodon.org/@moememos
+  # - name: GitHub
+  #   url: /open-source/
+  # - name: Mastodon
+  #   url: https://fosstodon.org/@moememos
   - name: Email
-    url: mailto:memos@memos.moe
+    url: mailto:hi@icebear.tech

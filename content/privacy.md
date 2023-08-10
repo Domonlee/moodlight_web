@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-menu: "main"
+# menu: "main"
 ---
 
 Moe Memos is built with full respect of users' privacy in mind. Moe Memos does not collect any data and makes zero network connection to the developer.

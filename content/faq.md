@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-menu: "main"
+# menu: "main"
 ---
 
 ### Behind Moe Memos
