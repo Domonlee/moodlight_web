@@ -1,15 +1,13 @@
 baseURL: https://moodlight.icebear.tech/
 languageCode: en-US
-title: Moodlight 
+title: MoodLight: Create the Atmosphere You Want | Best Mood Lighting Solutions 
 theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: Moodlight 
+    title: MoodLight: Create the Atmosphere You Want | Best Mood Lighting Solutions 
     subTitle: |
-      The Moodlight app is a great way to relax and de-stress. With a variety of soothing light settings to choose from,
-      you can create the perfect atmosphere for any mood. Whether you're looking to unwind after a long day, or you need a boost of energy, the Moodlight app can help.
-      Availabile on iPhone, iPad and Android.
+      Illuminate your world with MoodLight, the leading provider of mood lighting solutions. Let us help you set the perfect ambiance for any occasion. Browse our collection of innovative and high-quality mood lighting products now.
     imageUrl: /moodlight.png
     imageWidth: 68
     imageHeight: 68
