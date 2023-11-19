@@ -1,6 +1,6 @@
 baseURL: https://moodlight.icebear.tech/
 languageCode: en-US
-title: MoodLight: Create the Atmosphere You Want | Best Mood Lighting Solutions 
+title: MoodLight
 theme: PaperMod
 params:
   profileMode:
