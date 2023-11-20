@@ -5,7 +5,7 @@ theme: PaperMod
 params:
   profileMode:
     enabled: true
-    title: MoodLight: Create the Atmosphere You Want | Best Mood Lighting Solutions 
+    title: MoodLight: Best Mood Lighting Solutions 
     subTitle: |
       Illuminate your world with MoodLight, the leading provider of mood lighting solutions. Let us help you set the perfect ambiance for any occasion. Browse our collection of innovative and high-quality mood lighting products now.
     imageUrl: /moodlight.png
